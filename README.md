@@ -1,2 +1,2 @@
 # course_ciftliksistem
-test zone on ciftliksistem
+test zone for ciftliksistem
