@@ -4,7 +4,7 @@ function genLotoNumb(maxValue = 49){
   return Math.ceil(Math.random()*maxValue)
 }
 
-for(var i = 1; i<=8;i++){
+for(var i = 1; i <=8; i++){
   console.log(i + '.Columns');
   for(var j = 1; j<=6; j++){
     console.log(genLotoNumb());
